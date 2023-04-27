@@ -4,6 +4,7 @@
 ```
 # 打包 (镜像启动三个zk+zkui)
 ## 打包文件Dockerfile，脚本start-cluster.sh
+## apache-zookeeper-3.8.1-bin.tar.gz，jdkName=openjdk-17.0.2_linux-x64_bin.tar.gz，zkui-2.0-SNAPSHOT-jar-with-dependencies.jar
 sh buildAndRunImg.sh
 
 # 调试

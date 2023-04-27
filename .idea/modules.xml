@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MicroServices_Registry.iml" filepath="$PROJECT_DIR$/.idea/MicroServices_Registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry-zk-consumer/registry-zk-consumer.iml" filepath="$PROJECT_DIR$/registry-zk-consumer/registry-zk-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry-zk-handwriting/registry-zk-handwriting.iml" filepath="$PROJECT_DIR$/registry-zk-handwriting/registry-zk-handwriting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry-zk-provider/registry-zk-provider.iml" filepath="$PROJECT_DIR$/registry-zk-provider/registry-zk-provider.iml" />
+    </modules>
+  </component>
+</project>
